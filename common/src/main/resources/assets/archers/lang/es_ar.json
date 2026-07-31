@@ -19,6 +19,7 @@
   "effect.archers.hunters_mark.description": "Aumenta el daño recibido de todas las fuentes",
   "effect.archers.hunters_mark_stash": "Disparo Potente",
   "effect.archers.hunters_mark_stash.description": "El próximo disparo aplica Marca del Cazador" ,
+  "entity.archers.spirit_wolf": "Lobo Espiritual",
   "entity.minecraft.villager.archers.archery_artisan": "Artesano Arquero",
   "entity.minecraft.villager.archers:archery_artisan": "Artesano Arquero",
   "entity.minecraft.villager.archery_artisan": "Artesano Arquero",
